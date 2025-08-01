@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "planilha-robo-otc",
+  "private_key_id": "36c1c3836bd42a8764af8a6e290a476408e448a3",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQCuVI95OowJPX4T\nZrwGpMNzCjbv8ZKBSSqivSuJZaF4d+3Eu+01h9HlHQ7X/PTYtO7oN0437tF4mDgs\niuxxvQ7fvCwxSjQ96F0OxfHQqBvwq5SFqAVcYMWATkcHicz0kU4jrr/jWGXtayP2\nYfX3lrK5E9WKe+OzM2W48wZg+P+EEaZCS2e1PhNRnP/MMQ5XnCjxyzDR/yCtrCR0\nAjq2qsxyuPgpgPJSKJGSFYYkof7WmojCp87mgyitRY/JWd2B7j1yn3m6GoQSSqcj\nRuEEFOULltlBo7uFxUVR8tqhrMSRu6+ZYrH1aZh0KcuwBNLVFfvb9RobSwpZVSBq\nrKybw1xPAgMBAAECggEAMnkEEx7K1ZAKtRZNAQVqGyANeNnxx2HGKNjpRn34ypa6\nbffU/Wcl85Y+qnUv9KAp/WypxlLsLeSweuD8BRAuQsPJ7blkt7nTW4ge84EAmeUr\neqkDaFQSSowfT4TrpLF/NKCPKQT6ectH3blODBGDDEe8TzyAV+1dGbevFJty6yrv\nsUHCMEQwm/2aS3vY8dxAHouNyurSWI05/++QL5o8xgUvuV9a6aoWPWQElSayvGEq\nEdy2NczPE8zKoPBzXS0oNuZaeGQnT1M34SdYXhki44R0Lkzc3X+cNKCHiY4t1dAQ\n7OisKMEXDodNWDH1r62zEeIb+HIEjfqOyiVu2W9SNQKBgQDvpGKGDVbNx5BuhlpC\nTWpOgsX/cks1AI4e+zmBYl0AxF9UDDqrshDYVbR8PsY7eNmY9hf62eeDMprHLHvW\n9UVR5j9LeHeIZBrlfcKmVB2unHtJDZ/nNxS8Cn/7qI/UqxHvWOI2e1MrqxukCqQU\nf0Ow4Wj2VRleHIYauBH07WQFRQKBgQC6OuMpZDJNGVX3OOzsri9RK8Lo7hf44THR\n4/gBGL7TJTFyGzIaD8xHXY1JDPlfVkfSU23A+ntEi8GZZuD55+sEkylB4jbbcStn\nDsGW8euVN/EdjaIzU0AJ96Q/rKN+ApsdrRwHPUbXwOGUZ0Orl+D5sIW0xQ3b3RU5\nIeNue7OigwKBgQCNd10yBW3YzJZWqLlfqpO3BTwdMDt1bn53i5bG6mo8qbAczZtV\nACkxjGafce9T7GOICL7fNwOUT6tPKNNychgZ4PI8e0EVIwM9tp/R0JY1HesplQFw\nXPPAjfI/faJqyRItWSsxPlw6yyfmDuINt5MeN/LeeB4hkHUaEM+I5xrEgQKBgQCq\nqeqhdQQv6acBX7aoE9yi+4Ksaf2oA9/fJJaTkrTV1QDiPBAHGDExuYcPygcCGpTJ\nJ9GuBx5OK/FofoJwItwani4yBXgWVDjdQgWhKeSmI9UgKzrY5FMMj1iDTdeqVAMJ\nCCpma/5vHIDdumCmcRIoYF+30NopggrAB9Ff35c4twKBgQCEsRprRghSYTwHcGTo\nEcfFRA8C9pm7yWt55/zSj1gAESbMLhSI6G7gV3Ov4ZcLmbDDu4gzwY9q/43VUN4W\nRDQsbBDVfDOzKQxC/0w9pmLK1YTNzkedM9T1TUn9boJAfZ56Sk+jYaRcniPy0pHF\nkIQPbOc0IJzsZIzgPztJVkHevw==\n-----END PRIVATE KEY-----\n",
+  "client_email": "bot-ia-dev@planilha-robo-otc.iam.gserviceaccount.com",
+  "client_id": "101069235049042345994",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/bot-ia-dev%40planilha-robo-otc.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
